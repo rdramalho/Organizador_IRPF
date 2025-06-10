@@ -1,2 +1,2 @@
 # Organizador_IRPF
-Organizador paar informações de Imposto de Renda Pessoa Física
+Organizador para Declaração de Imposto de Renda Pessoa Física
